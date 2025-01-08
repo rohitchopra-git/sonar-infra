@@ -1,1 +1,1 @@
-# sonar-infra
+# kafka-infra
